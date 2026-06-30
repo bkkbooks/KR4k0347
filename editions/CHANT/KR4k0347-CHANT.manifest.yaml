@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR4k0347/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4k0347/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 齊春秋
+  identifiers:
+    krp: KR4k0347
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0347.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4k0347_001-CHANT.yaml, hash: 'sha256:c59e94238372af7c7ed947e867232077835b4992df9f6336eeaa4b6e7b6b089e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4k0347_001-CHANT.markers.yaml, hash: 'sha256:329a4de778bf9d0d13b9affc646005ccbf6345125c05e058697e36bfca2f4778'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR4k0347_CHANT_001-1a.1-h, span: [body, 0, 21]}
+  label: 齊春秋
+  type: section
+  level: 1
+hash: sha256:7f5e23f3012f9f8d4aa27a41e3d2b273ba1f0efdf361a145b5f6e52f24b19269

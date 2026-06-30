@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0347/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊春秋王儉不好聲色未嘗遊宴衣裘服用自周而已
+  hash: sha256:48bb841758d2427caaa1d941187f68476594cf9c0ef7380cf8554f6e04508e27
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0347_CHANT_001-1a.1-h}
+metadata:
+  title: 齊春秋
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0347.xml
+hash: sha256:c59e94238372af7c7ed947e867232077835b4992df9f6336eeaa4b6e7b6b089e

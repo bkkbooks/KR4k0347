@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR4k0347/v1
+canonical_location: https://kanripo.org/bkk/KR4k0347/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 齊春秋
+  identifiers:
+    krp: KR4k0347
+  tags:
+    kr-categories: KR4k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0347.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR4k0347_001.yaml
+    hash: sha256:c59e94238372af7c7ed947e867232077835b4992df9f6336eeaa4b6e7b6b089e
+  markers:
+  - seq: 1
+    role: markers
+    filename: assets/KR4k0347_001.markers.yaml
+    hash: sha256:865028509995292d3cb5bfefa4b53280b60bb76e8e0d59226a458343d6ff882f
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4k0347_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 21
+  label: 齊春秋
+  type: section
+  level: 1
+hash: sha256:5c620d3ef25d60deb18e82a1b3d42e8e457fc1ec1fcf0c9e94202a78bfd968b8
