@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0347/v1
 canonical_location: https://kanripo.org/bkk/KR4k0347/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 齊春秋
   identifiers:
@@ -36,4 +36,4 @@ table_of_contents:
   label: 齊春秋
   type: section
   level: 1
-hash: sha256:5c620d3ef25d60deb18e82a1b3d42e8e457fc1ec1fcf0c9e94202a78bfd968b8
+hash: sha256:5da5a64517d3105d95e858ceac7707cde1a39657f1c1451692c30fe6eb17d1ca
